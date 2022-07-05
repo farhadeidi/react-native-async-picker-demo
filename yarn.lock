@@ -5365,10 +5365,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-async-picker@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-async-picker/-/react-native-async-picker-1.1.0.tgz#203f9b744eafb03a637ca794f4f75ad5dc00a58c"
-  integrity sha512-SjlS/gGnhyrBY6hE2FXfN/2k3H4l5TY+DLSrE94Lpl8aovO6JVwQ+5QnOmp5bY/63bbioMVglCRKvLms0RnVVg==
+react-native-async-picker@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-async-picker/-/react-native-async-picker-1.1.1.tgz#1d257976474231d5f63fd16e0acbd3f6cb0779b2"
+  integrity sha512-cNzff04ZlW/tr0TEo3gdbspmLYOiNEuKErLJomBy/kC16f2KHarVlOd+x6UgDjnBrR6fkhTgCiMx6f/wI/xyTQ==
 
 react-native-codegen@^0.0.17:
   version "0.0.17"
